@@ -1,0 +1,14 @@
+cluster.name: Cluster1
+node.name: "ubuntu_server"
+node.master: true
+node.data: true
+index.number_of_shards: 1
+index.number_of_replicas: 0
+network.bind_host: ubuntu
+cluster.name: Cluster1
+node.name: "ubuntu_server"
+node.master: true
+node.data: true
+index.number_of_shards: 1
+index.number_of_replicas: 0
+network.bind_host: ubuntu
